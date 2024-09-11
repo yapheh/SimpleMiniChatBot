@@ -1,5 +1,5 @@
 # Introduction
-Gemini API를 사용하여 Local에서 작동하는 CahtBot을 구현했습니다.
+Gemini API를 사용하여 Local에서 작동하는 ChatBot을 구현했습니다.
 
 # 실행방법
 ---
