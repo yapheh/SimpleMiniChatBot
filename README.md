@@ -1,1 +1,4 @@
-# cv_hw1_ChoiHyungSeok
+# 실행방법
+1. ㄷ
+2. 34
+3. ㅁㅇㄶ
